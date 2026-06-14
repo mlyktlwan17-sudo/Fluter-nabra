@@ -1,0 +1,6 @@
+{
+  "name": "نبرة",
+  "description": "صوتك البداية ومع منصتنا تكتمل الحكاية - منصة متخصصة لتقويم وتحسين الأداء الصوتي اللغوي العربي وتصحيح اضطرابات النطق.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
